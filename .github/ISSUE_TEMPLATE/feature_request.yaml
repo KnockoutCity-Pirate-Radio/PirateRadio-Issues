@@ -3,7 +3,7 @@ description: Suggest an idea for a project
 type: feature
 
 title: "[Feature]: "
-labels: ["enhancement"]
+labels: []
 projects: []
 
 assignees:
