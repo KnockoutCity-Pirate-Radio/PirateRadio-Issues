@@ -33,8 +33,18 @@ body:
     attributes:
       label: What happened?
       description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      value: |
+        **What happend?**
+        Please provide a detailed step-by-step instruction on how to replicate this issue. 
+
+        **Expected behaviour:**
+        Please describe the behaviour you would have expected instead.
+
+        **Screenshots:**
+        Include screenshots if possible here.
+
+        **Additional Information:**
+        Anything else you'd like to add that might be relevant to the issue.
     validations:
       required: true
  
