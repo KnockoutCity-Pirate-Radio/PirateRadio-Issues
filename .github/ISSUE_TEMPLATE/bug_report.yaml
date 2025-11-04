@@ -3,7 +3,7 @@ description: Create a bug report
 type: bug
 
 title: "[Bug]: "
-labels: ["bug"]
+labels: []
 projects: []
 
 assignees:
