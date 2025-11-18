@@ -22,7 +22,7 @@ body:
       description: What project is this bug related to?
       options:
         - 'Pirate Radio: Labs'
-        - 'Pirate Radio: Client'
+        - 'Pirate Radio: Launcher'
         - 'Pirate Radio: Mod Listing'
         - 'KnockoutCity SDK (TypeScript)'
     validations:
